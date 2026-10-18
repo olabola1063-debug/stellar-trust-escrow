@@ -1,0 +1,33 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "agent/devdave-reputation-fix",
+    "devdave/kcee-409-412",
+    "develop",
+    "drips/800-801-802-803",
+    "feat/multi-asset-path-payments-1593",
+    "feat/playwright-e2e-suite-1592",
+    "origin",
+    "test/devdave-arbiter-deadline-555-558"
+  ],
+  "parent": {
+    "agent/devdave-reputation-fix": "develop",
+    "devdave/kcee-409-412": "develop",
+    "develop": null,
+    "drips/800-801-802-803": "develop",
+    "feat/multi-asset-path-payments-1593": "develop",
+    "feat/playwright-e2e-suite-1592": "develop",
+    "origin": "develop",
+    "test/devdave-arbiter-deadline-555-558": "develop"
+  },
+  "order": [
+    "develop",
+    "agent/devdave-reputation-fix",
+    "devdave/kcee-409-412",
+    "drips/800-801-802-803",
+    "feat/multi-asset-path-payments-1593",
+    "feat/playwright-e2e-suite-1592",
+    "origin",
+    "test/devdave-arbiter-deadline-555-558"
+  ]
+}
